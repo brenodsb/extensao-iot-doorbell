@@ -6,7 +6,7 @@
   
 <p align="right"><b>Fonte:</b> <i>https://academiadelibras.com/blog/comunidade-surda/</i></p>
   
-<p align="justify">Pensando nisso, desenvolvi pensando na comunidade surda um sistema de alerta residencial, em <b>Arduino</b>, que utiliza sinalização luminosa. No mercado existem diversas opções de produtos com essa finalidade, porém, projetos como esse permitem que pessoas iniciantes no mundo da tecnologia coloquem a mão na massa. Através do baixo grau de dificuldade e prototipagem de baixo custo, é possível personalizar o projeto e adequar as suas necessidades.</p>
+<p align="justify">Pensando nisso, desenvolvi durante o <b>Curso de Extensão IoT na prática para iniciantes</b>, lecionado pelo professor <b>Henrique Poyatos</b>, um sistema de alerta luminoso residencial, em <i>Arduino</i>, pensando na comunidade surda. No mercado existem diversas opções de produtos com essa finalidade, porém, projetos como esse permitem que pessoas iniciantes no mundo da tecnologia coloquem a mão na massa. Através do baixo grau de dificuldade e prototipagem de baixo custo, é possível personalizar o projeto e adequar as suas necessidades.</p>
 
 <p align="center"><img src="https://github.com/brenodsb/extensao_iot_doorbell/blob/main/media/extensao_iot_doorbell_gif.gif">
 <br><i>Uma breve exibição do projeto em funcionamento</i></p>
